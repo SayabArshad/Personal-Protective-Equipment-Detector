@@ -112,6 +112,4 @@ For queries, collaborations, or feedback, reach out at **[sayabarshad789@gmail.c
 ---
 
 > 🦺 *Empowering safer workplaces through intelligent AI-based PPE monitoring.*
-
-```
 ```
