@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python) ![Tkinter](https://img.shields.io/badge/Framework-Tkinter-orange?logo=python) ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv) ![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-green?logo=ultralytics) ![License](https://img.shields.io/badge/License-MIT-yellow) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2936/2936757.png" alt="PPE Detector Logo" width="140"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/18594/18594057.png" alt="PPE Logo" width="140"/>
 </p>
 
 🚀 The **Personal Protective Equipment (PPE) Detector** is an AI-powered desktop application built using **YOLOv8**, **OpenCV**, and **Tkinter** that automatically detects safety equipment such as **helmets, masks, and vests** in real time.  
