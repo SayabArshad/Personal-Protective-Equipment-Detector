@@ -93,7 +93,9 @@ Built with a lightweight **Tkinter interface**, it provides smooth operation and
 ## 🧑‍💻 Author
 
 **Developed by:** [Sayab Arshad Soduzai](https://github.com/SayabArshad) 👨‍💻
+
 📅 **Version:** 1.0.0
+
 📜 **License:** MIT License
 
 ---
