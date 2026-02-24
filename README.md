@@ -57,11 +57,11 @@ python ppe_detector.py
 
 ```
 ppe-detector/
-│-- ppe_detector.py     # Main script
-│-- requirements.txt    # Dependencies
-│-- README.md           # Documentation
-│-- PPE.pt              # YOLO model (user-provided)
-│-- assets/             # Interface images
+│-- ppe_detector.py    
+│-- requirements.txt   
+│-- README.md           
+│-- PPE.pt              
+│-- assets/             
 │    ├── 1.jpg
 │    ├── 2.jpg
 │    ├── 3.jpg
